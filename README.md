@@ -1,8 +1,5 @@
-fala
-- 👀 I’m interested in ... aprende javascripto e python
-- 🌱 I’m currently learning ... javascristo
-- 💞️ I’m looking to dinheiro mtos dinheiros
-- 📫 How to reach me ... nao nao me contate
+for now 
+just focusing;
 
 <!---
 taiyouuu/taiyouuu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
