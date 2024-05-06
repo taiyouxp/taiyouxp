@@ -1,4 +1,4 @@
-<div align="center">
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7225D&background=FFFFFF00&center=true&random=false&width=600&lines=Salve%2C+esse+%C3%A9+o+readme+do+Taiyou;%22Hello+World!%22+kkkkkk)](https://git.io/typing-svg)
 
@@ -21,4 +21,4 @@ Vou ser full-stack.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/taiyo-ferreira-1a853b250)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@7.yvl/)
 >"Create, explore, expand, conquer.", A$AP Rocky.
-</div>
+
