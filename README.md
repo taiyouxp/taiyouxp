@@ -20,6 +20,5 @@ Vou ser full-stack.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/taiyo-ferreira-1a853b250)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@7.yvl/)
-</div>
-
 >"Create, explore, expand, conquer.", A$AP Rocky.
+</div>
