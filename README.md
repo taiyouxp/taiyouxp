@@ -3,7 +3,7 @@
 
 <div style="display: flex; flex-direction: row; align-items: center; justify-content: center;">
 <div>
-<p> Studying Information Systems - UFPA & ADS - Estácio;</br>
+<p> Information Systems - UFPA & ADS - Estácio;</br>
 Reading sum zeros and ones ⚙</br>
 OFFLINE!
 
