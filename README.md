@@ -11,3 +11,6 @@ currently stacking knowledge on<br> computer networks and cybersecurity
  hmu [![](https://img.shields.io/badge/-0079F9?logo=linkedin)](https://www.linkedin.com/in/taiyo-ferreira/)   [![](https://img.shields.io/badge/-0029A5?logo=discord)](https://discord.com/channels/@ty.ou/)
 
 [OFFLINE!](https://open.spotify.com/intl-pt/album/3STQHyw2nOlIbb1FSgPse8?si=_cNyrqpcQdWcN78RLCBMBA)
+<p align="right">
+  © 2024
+</p>
