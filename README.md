@@ -12,5 +12,5 @@ currently stacking knowledge on<br> computer networks and cybersecurity
 
 [OFFLINE!](https://open.spotify.com/intl-pt/album/3STQHyw2nOlIbb1FSgPse8?si=_cNyrqpcQdWcN78RLCBMBA)
 <p align="right">
-  © 2024
+ 2024©
 </p>
