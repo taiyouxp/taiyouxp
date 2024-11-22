@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=500&size=35&letterSpacing=&duration=1000&pause=2000&color=F0F0F0&background=69FF0000&center=true&vCenter=true&multiline=true&random=true&width=70&height=70&lines=%5Bas%5D" alt="Typing SVG" />
   </a>
 </p>
-currently stacking knowledge on<br> computer networks/cybersecurity/sql
+currently stacking knowledge on<br> computer networks/cybersecurity/database
 
 ### `2/8` ufpa - sistemas de informação "information systems"
 <br> 
