@@ -3,14 +3,22 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=500&size=35&letterSpacing=&duration=1000&pause=2000&color=F0F0F0&background=69FF0000&center=true&vCenter=true&multiline=true&random=true&width=70&height=70&lines=%5Bas%5D" alt="Typing SVG" />
   </a>
 </p>
-currently stacking knowledge on<br> computer networks/cybersecurity/database
+<h3>Wsup, im Taiyo; <br>
+Fullstack knowledgement is my main goal;
+</h3>
+Currently studying: <br>
+<li>Backend basics</li>
+<li>Docker</li>
+<li>Relational Database w/MySQL</li>
 
-### `2/8` ufpa - sistemas de informação "information systems"
+### `2/8` ufpa - sistemas de informação
 <br> 
 
- hmu [![](https://img.shields.io/badge/-0079F9?logo=linkedin)](https://www.linkedin.com/in/taiyo-ferreira/)   [![](https://img.shields.io/badge/-0029A5?logo=discord)](https://discord.com/channels/@ty.ou/)
+ hmu <br>
+[![](https://img.shields.io/badge/ty.ou-0029A5?logo=discord)](https://discord.com/channels/@ty.ou/)
+ 
 
-[OFFLINE!](https://open.spotify.com/intl-pt/album/3STQHyw2nOlIbb1FSgPse8?si=_cNyrqpcQdWcN78RLCBMBA)
-<p align="right">
- 2024©
-</p>
+<div align="center">
+  ᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼2025©<br>᲼
+<img src="https://i.pinimg.com/originals/7f/aa/f7/7faaf74810050f854e703110ca8084a5.gif">
+</div>
