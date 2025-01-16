@@ -1,6 +1,3 @@
-<div align="right">
-2025©
-</div>
 <img align="right" width="500" src="https://i.pinimg.com/originals/7f/aa/f7/7faaf74810050f854e703110ca8084a5.gif">
 <p align="center">
   <a href="https://git.io/typing-svg">
