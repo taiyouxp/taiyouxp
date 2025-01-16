@@ -1,4 +1,4 @@
-<img align="right" width="400" src="https://i.pinimg.com/originals/7f/aa/f7/7faaf74810050f854e703110ca8084a5.gif">
+<img align="right" width="450" src="https://i.pinimg.com/originals/7f/aa/f7/7faaf74810050f854e703110ca8084a5.gif">
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=500&size=35&letterSpacing=&duration=1000&pause=2000&color=F0F0F0&background=69FF0000&center=true&vCenter=true&multiline=true&random=true&width=70&height=70&lines=%5Bas%5D" alt="Typing SVG" />
