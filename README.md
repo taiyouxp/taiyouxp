@@ -8,7 +8,7 @@
 Fullstack knowledgement is my main goal;
 </h3>
 Currently studying: <br>
-<li>Ruby/RubyOnRails</li>
+<li>Python</li>
 <li>Docker</li>
 <li>Relational Database w/MySQL</li>
 
