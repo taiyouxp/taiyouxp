@@ -4,15 +4,17 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=500&size=35&letterSpacing=&duration=1000&pause=2000&color=F0F0F0&background=69FF0000&center=true&vCenter=true&multiline=true&random=true&width=70&height=70&lines=%5Bas%5D" alt="Typing SVG" />
   </a>
 </p>
-<h3>Wsup, im Taiyo; <br>
-Fullstack knowledgement is my main goal;
-</h3>
-Currently studying: <br>
-<li>Python</li>
+
+`var introd = "Wsup, im Taiyo";` <br>
+`var bio = "Fullstack knowledgement is my main goal";`
+
+#### 0. currently studying: <br>
+<li>PHP</li>
 <li>Docker</li>
 <li>Relational Database w/MySQL</li>
 
-### ufpa - sistemas de informação (2/8)
+#### 1. college course:
+### ufpa - sistemas de informação <br> <em>aka: information systems </em><br> [2/8]  
 <br> 
 
  hmu <br>
