@@ -1,18 +1,4 @@
- <code>{
-  "name": "taiyou",
-  "age": 19,
-  "education": {
-    "isStudent": true,
-    "college": "ufpa",
-    "course": "information systems"
-  },
-  "skills": {
-    "front-end": ["HTML5", "CSS", "JS"],
-    "back-end": ["PHP", "Laravel", "SQL"],
-    "+": "Docker"
-}</code>
 
-      
 <h3>
       
 <em>powered by</em> <br>
