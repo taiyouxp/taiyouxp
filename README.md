@@ -1,23 +1,17 @@
-<table>
-<td>
-      
-```json
-{
+ <code>{
   "name": "taiyou",
   "age": 19,
   "education": {
     "isStudent": true,
-    "college": "UFPA",
-    "course": "information systems (pt: sistemas de informação)"
+    "college": "ufpa",
+    "course": "information systems"
   },
   "skills": {
     "front-end": ["HTML5", "CSS", "JS"],
     "back-end": ["PHP", "Laravel", "SQL"],
     "+": "Docker"
-}
-```
-</td>
-</table>
+}</code>
+
       
 <h3>
       
