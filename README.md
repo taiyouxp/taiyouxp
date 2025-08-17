@@ -11,5 +11,5 @@ stuff im learning: <br>
 * JS/TS <br>
 * Neovim
 
- religion: <br>
+btw: <br>
  [![My Skills](https://skillicons.dev/icons?i=arch)](https://skillicons.dev) 
