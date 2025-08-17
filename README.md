@@ -9,7 +9,7 @@ stuff im learning: <br>
 * Java <br>
 * C/C++ <br>
 * JS/TS <br>
-* Neovim
+* the Vim keybinds to tell everyone i use Neovim
 
-btw: <br>
+btw, <br>
  [![My Skills](https://skillicons.dev/icons?i=arch)](https://skillicons.dev) 
