@@ -6,10 +6,8 @@ aiming the software craftsmanship <br>
 
 constantly learning and improving: <br>
 
-* C/C++ and Python for socket programming and others low-level stuff<br>
-* Java with Spring <br>
-* Webdev: JS/TS and its frameworks (ruby too !)<br>
+* C/C++ and Python for socket programming and more low-level stuff<br>
+* Webdev: JS/TS and its frameworks (+ java w/spring)<br>
 * Linux and the FOSS ecosystem <br>
 * DBMS (SQL and NoSql)<br>
-* infraestructure (kubernets, docker, aws, etc)
-* its more of a hobby: functional programming [λ]
+* infraestructure (kubernets, docker, aws)
